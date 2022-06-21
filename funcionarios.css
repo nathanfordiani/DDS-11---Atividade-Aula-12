@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Ubuntu:wght@300&display=swap');
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+
+    text-align: right;
+}
+
+.img_denis {
+    position: absolute;
+    left: 0px;
+    height: 500px;
+    margin: 0px;
+    margin-bottom: 15px;
+
+}
+
+.img_vincent {
+    position: absolute;
+    top: 95%;
+    left: 0%;
+    height: 500px;
+
+}
+.img_nha{
+    position: absolute;
+    top: 177%;
+    left: 0%;
+    height: 500px;
+}
+.textos {
+    float: right;
+    width: 33%;
+    border-left: solid #333333;
+}
+
+.textos2 {
+    position: absolute;
+    top: 95%;
+    margin-right: 3px;
+    right: 0%;
+    width: 33%;
+    border-left: solid #333333;
+}
+.textos3{
+    position: absolute;
+    top: 177%;
+    margin-right: 3px;
+    right: 0%;
+    width: 33%;
+    border-left: solid #333333; 
+}
